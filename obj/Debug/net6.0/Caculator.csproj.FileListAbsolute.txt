@@ -1,0 +1,15 @@
+C:\DEV\Caculator\bin\Debug\net6.0\Caculator.exe
+C:\DEV\Caculator\bin\Debug\net6.0\Caculator.deps.json
+C:\DEV\Caculator\bin\Debug\net6.0\Caculator.runtimeconfig.json
+C:\DEV\Caculator\bin\Debug\net6.0\Caculator.dll
+C:\DEV\Caculator\bin\Debug\net6.0\Caculator.pdb
+C:\DEV\Caculator\obj\Debug\net6.0\Caculator.csproj.AssemblyReference.cache
+C:\DEV\Caculator\obj\Debug\net6.0\Caculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Caculator\obj\Debug\net6.0\Caculator.AssemblyInfoInputs.cache
+C:\DEV\Caculator\obj\Debug\net6.0\Caculator.AssemblyInfo.cs
+C:\DEV\Caculator\obj\Debug\net6.0\Caculator.csproj.CoreCompileInputs.cache
+C:\DEV\Caculator\obj\Debug\net6.0\Caculator.dll
+C:\DEV\Caculator\obj\Debug\net6.0\refint\Caculator.dll
+C:\DEV\Caculator\obj\Debug\net6.0\Caculator.pdb
+C:\DEV\Caculator\obj\Debug\net6.0\Caculator.genruntimeconfig.cache
+C:\DEV\Caculator\obj\Debug\net6.0\ref\Caculator.dll
